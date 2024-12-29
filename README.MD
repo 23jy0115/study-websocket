@@ -25,7 +25,7 @@ cd ./backend
 npm run dev
 ```
 
--frontend
+- frontend
 ```bash
 cd ./frontend
 npm run 
