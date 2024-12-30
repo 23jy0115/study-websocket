@@ -29,5 +29,6 @@ npm run dev
 ```bash
 cd ./frontend
 npm run 
+```
 
 ## **ブラウザをふたつ開き**、両方から*http://localhost:5173*にアクセスする
